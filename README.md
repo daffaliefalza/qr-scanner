@@ -1,1 +1,1 @@
-## This is a layour challenge from frontendmentor.io
+## This is a layout challenge from frontendmentor.io
